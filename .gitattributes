@@ -21,3 +21,8 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
+
+*.ps1	-text diff merge
+*.psm1	-text diff merge
+*.psd1	-text diff merge
+*.mof	-text diff merge
